@@ -1,0 +1,8 @@
+streamlit
+transformers
+pypdf2
+langchain
+numpy
+scikit-learn
+torch
+ollama
